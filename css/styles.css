@@ -45,13 +45,15 @@ footer a:hover {
 .image-div {
 	background-image: url("../images/yoga/woman\ yoga\ home\ pages\ crop.jpg");
 	background-size: cover;
+	background-position: center;
 	height: 100%;
 }
 
 .image-div-about {
 	background-image: url("../images/yoga/woman\ meditatingcropdreamy.jpg");
 	background-size: cover;
-	height: 100%;
+	background-position: center;
+	/* height: 100%; */
 	display: flex;
 	justify-content: space-between;	
 	
