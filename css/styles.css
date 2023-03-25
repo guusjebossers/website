@@ -18,7 +18,15 @@ header {
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #DBD3C9;
+	background-color: #FDF8F0;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: x-large;
+}
+
+.logo-text-color {
+	color: #D18965;
+	font-size: xx-large;
+	font-weight: bold;
 }
 
 /* Effect on social media buttons */
