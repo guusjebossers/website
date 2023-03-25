@@ -57,6 +57,13 @@ footer a:hover {
 	display: flex;
 	justify-content: space-between;	
 	
+}.image-div-services {
+	background-color: #fffcf8;
+	
+	display: flex;
+	justify-content: space-between;	
+	padding: 50px;
+	
 }
 .center-text {
 	text-align: center;
@@ -87,4 +94,8 @@ footer a:hover {
 	gap: 10px;
 	bottom: 80px;		
 	right: 80px;
+}
+.services-background {
+	background-color: #decfb8;
+	padding: 30px	;
 }
