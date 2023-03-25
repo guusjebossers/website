@@ -41,3 +41,22 @@ footer a:hover {
 	color: #800000;
 	font-weight: bold;
 }
+
+.image-div {
+	background-image: url("../images/yoga/woman\ yoga\ home\ pages\ crop.jpg");
+	background-size: cover;
+	height: 100%;
+}
+
+.floating-text {
+	position: relative;
+	padding:250px 50px;
+	font-size: x-large;
+}
+
+
+.floating-text-content {
+	color: #FDF8F0;
+	font-family: 'Times New Roman', Times, serif;
+	
+}
