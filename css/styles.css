@@ -48,6 +48,13 @@ footer a:hover {
 	height: 100%;
 }
 
+.image-div-about {
+	background-image: url("../images/yoga/woman\ meditatingcropdreamy.jpg");
+	background-size: cover;
+	height: 100%;
+}
+
+
 .floating-text {
 	position: relative;
 	padding:250px 50px;
@@ -59,4 +66,12 @@ footer a:hover {
 	color: #FDF8F0;
 	font-family: 'Times New Roman', Times, serif;
 	
+}
+
+.socials {
+	position: absolute;
+	display: flex;
+	gap: 10px;
+	bottom: 80px;		
+	right: 80px;
 }
