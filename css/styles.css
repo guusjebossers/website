@@ -91,6 +91,13 @@ footer a:hover {
 
 }
 
+
+.color-vision2 {
+	color: #FDF8F0;
+	font-family: "Chicle";
+
+}
+
 .floating-text {
 	position: relative;
 	padding:250px 50px;
@@ -128,5 +135,9 @@ footer a:hover {
 	padding-top: 20px	;
 	padding-inline: 20px;
 	margin: 30px;
+}
+
+.team-background img {
+	border-radius: 50%;
 }
 
