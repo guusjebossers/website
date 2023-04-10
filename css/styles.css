@@ -5,14 +5,14 @@
 /* Changing the main font and background colour */
 
 body {
-	font-family: Raleway, sans-serif;
+	font-family: Georgia, 'Times New Roman', Times, serif;
 	background-color: #fffcf8;
 }
 
 /* Changing the background colour for the header */
 
 header {
-	background-color: #000060;
+	background-color: #D18965;
 }
 
 /* Changing the background color for the navigation bar */
@@ -38,12 +38,13 @@ footer a:hover {
 /* Corporate navbar */
 
 #navbar-corporate a.active {
-	color: #800000;
+	color: #000000;
 	font-weight: bold;
 }
+ 
 
 .image-div {
-	background-image: url("../images/yoga/woman\ yoga\ home\ pages\ crop.jpg");
+	background-image: url("../images/yoga/ocean\ video.mp4");
 	background-size: cover;
 	background-position: center;
 	height: 100%;
@@ -87,7 +88,7 @@ footer a:hover {
 	font-family: 'Times New Roman', Times, serif;
 	
 }
-.floating-text-content-services {
+.floating-text-content-team {
 	color: #0c0b0b;
 	font-family: 'Times New Roman', Times, serif;
 	
