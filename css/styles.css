@@ -58,13 +58,27 @@ footer a:hover {
 	display: flex;
 	justify-content: space-between;	
 	
-}.image-div-services {
+}
+
+.image-div-team {
 	background-color: #fffcf8;
 	
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
 	padding: 50px;
+
+}
+
+		
+.image-div-services {
+	background-color: #fffcf8;
+	
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding: 50px;
+
 	
 }
 .center-text {
