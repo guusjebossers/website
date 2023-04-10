@@ -62,7 +62,7 @@ footer a:hover {
 
 .image-div-team {
 	background-color: #fffcf8;
-	
+
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
@@ -122,3 +122,11 @@ footer a:hover {
 	padding-inline: 20px;
 	margin: 30px;
 }
+
+.team-background {
+	background-color: #c66e4e;
+	padding-top: 20px	;
+	padding-inline: 20px;
+	margin: 30px;
+}
+
