@@ -62,11 +62,11 @@ footer a:hover {
 
 .image-div-team {
 	background-color: #fffcf8;
-	
+
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
-	padding: 50px;
+	padding-top: 50px 
 
 }
 
@@ -87,6 +87,13 @@ footer a:hover {
 
 .color-vision {
 	color: #c66e4e;
+	font-family: "Chicle";
+
+}
+
+
+.color-vision2 {
+	color: #FDF8F0;
 	font-family: "Chicle";
 
 }
@@ -121,4 +128,18 @@ footer a:hover {
 	padding-top: 20px	;
 	padding-inline: 20px;
 	margin: 30px;
+	width: 350px;
 }
+
+.team-background {
+	background-color: #c66e4e;
+	padding-top: 20px	;
+	padding-inline: 5px;
+	margin: 5px;
+    width: 350px;
+}
+
+.team-background img {
+	border-radius: 50%;
+}
+
